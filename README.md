@@ -50,3 +50,6 @@ The repository includes this set of tests:
 ## Execution
 The result of executing the service generates this output:
 
+![image](https://github.com/julianariel/NotificationService/assets/11839151/60cc5199-c477-4006-9a26-f5fa636d4e5e)
+
+
